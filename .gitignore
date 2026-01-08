@@ -1,0 +1,9 @@
+a.out
+ustrings
+ustrings.o
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+result
+result-doc
